@@ -39,3 +39,6 @@ vignettes/*.pdf
 .Renviron
 
 /.quarto/
+
+.Rhistory
+/quarto/preview/lock
