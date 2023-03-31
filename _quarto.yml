@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "The Foreland Basin and Its Application in Hydrocarbon Exploration"

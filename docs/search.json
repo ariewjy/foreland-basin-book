@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "The Foreland Basin and Its Application in Hydrocarbon Exploration",
+    "section": "Welcome",
+    "text": "Welcome\nThis book is adopted from the author pre-thesis, entitled The Foreland Basin and Its Potential in Hydrocarbon Exploration. This book will talk about the definition of basin in general, foreland basin in specific, and how it differs compared to other type of basin. A study case from Indonesia’s basin will be used as an example of the foreland basin petroleum system.\nThis book was made to allow people to understand and visualize the foreland basin forming, evolution, and specific implication on petroleum system. This book was created in the spirit of sharing, as the author realized back then the publications on foreland basin are quite rare, and even today the reference that was used in the pre-thesis, is no longer available.\nThe author hopeful that this website will be useful, not only for people learning about petroleum system, but also people interested in learning about foreland basin.\n\n\n\n\n\n\nNote\n\n\n\nSpecial thanks to Budianto Toha as my supervisor for this pre-thesis project, who always encourage me to do more and learn more new things about basin analysis and alike.\nSemoga sehat selalu pak Bud!"
+  },
+  {
+    "objectID": "introduction.html#basin-forming",
+    "href": "introduction.html#basin-forming",
+    "title": "1  Introduction to Basin",
+    "section": "1.1 Basin Forming",
+    "text": "1.1 Basin Forming\nA basin can be formed only when there is a divergent force on the lithosphere. In this sub-chapter, we will be discussing about the mechanism based on litospheric stretching and flexural.\n\n1.1.1 Lithospheric Stretching\nLithospheric stretching is a divergent move on plate that happened because of the pull force of a plate. This force can be caused by pure pull forces like in between plate margins that moves away from each other (divergent), on the adjacent plate margin (transform) due to second order force that creates pull-apart basin, or on plate margin where it moves closer to each other (convergent) as a release-force after compression regime.\nWhen a lithosphere expoed to lithospheric stretching, astenosphere (bottom part) will flow as more aqueous part, while the crust (upper part) is rigid (brittle) will be exposed to cracking. These two processes happening in the lithosphere will form a crust thinning which will be causing a basin-forming.\nThere are three models available to explain these mechanism of crust movement above astenosphere when lithospheric stretching happened: McKenzie, Wernicke, and Cantilever model.\n\n\n\nFigure 1.2: McKenzie model (pure shear). This model visualizes a ductile moves of a crust that undergone thinning, while the brittle crust at top undergone a cracking (faults and grabens). This model is characterized by the symmetry of its faults. “Basin Analysis: Principles and Applications” (2005)\n\n\n\n\n\nFigure 1.3: Wernicke model (simple shear). This model is characterized by the asymmetric movement between crust and astenosphere “Basin Analysis: Principles and Applications” (2005)\n\n\n\n\n\nFigure 1.4: Cantilever model (a combined model between pure shear and simple shear). This model combines a simple shear movement of the upper crust with pure shear movement of the mantle at the bottom “Basin Analysis: Principles and Applications” (2005)\n\n\n\n\n1.1.2 Flexural Isostacy\nIsostacy is a theory used to explain about the behavior of lithosphere with astenosphere underneath. According to Airy, crust is distributed according to similar density but different in the root length (column) as depicted in the Figure 1.5 below.\n\n\n\nFigure 1.5: Airy Isostacy model by Buchanan (1994)\n\n\n\n\n\n\n“Basin Analysis: Principles and Applications.” 2005. Choice Reviews Online 43 (02). https://doi.org/10.5860/choice.43-0957.\n\n\nBuchanan. 1994. Extensional Teconics and Basin Inversion.\n\n\nEinsele, Gerhard. 2000. Sedimentary Basins. Springer Berlin Heidelberg. https://doi.org/10.1007/978-3-662-04029-4."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "“Basin Analysis: Principles and Applications.” 2005.\nChoice Reviews Online 43 (02). https://doi.org/10.5860/choice.43-0957.\n\n\nBuchanan. 1994. Extensional Teconics and Basin Inversion.\n\n\nEinsele, Gerhard. 2000. Sedimentary Basins. Springer Berlin\nHeidelberg. https://doi.org/10.1007/978-3-662-04029-4."
+  }
+]
