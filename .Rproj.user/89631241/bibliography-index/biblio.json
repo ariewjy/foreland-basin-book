@@ -1,0 +1,150 @@
+{
+    "sources": [
+        {
+            "DOI": "10.1093/comjnl/27.2.97",
+            "ISSN": "0010-4620",
+            "URL": "https://doi.org/10.1093/comjnl/27.2.97",
+            "author": [
+                {
+                    "family": "Knuth",
+                    "given": "Donald E."
+                }
+            ],
+            "container-title": "Comput. J.",
+            "id": "knuth84",
+            "issue": "2",
+            "issued": {
+                "date-parts": [
+                    [
+                        1984,
+                        5
+                    ]
+                ]
+            },
+            "page": "97-111",
+            "publisher": "Oxford University Press, Inc.",
+            "publisher-place": "USA",
+            "title": "Literate programming",
+            "type": "article-journal",
+            "volume": "27"
+        },
+        {
+            "DOI": "10.1007/978-3-662-04029-4",
+            "URL": "http://dx.doi.org/10.1007/978-3-662-04029-4",
+            "author": [
+                {
+                    "family": "Einsele",
+                    "given": "Gerhard"
+                }
+            ],
+            "id": "einsele2000",
+            "issued": {
+                "date-parts": [
+                    [
+                        2000
+                    ]
+                ]
+            },
+            "publisher": "Springer Berlin Heidelberg",
+            "title": "Sedimentary basins",
+            "type": "book"
+        },
+        {
+            "DOI": "10.5860/choice.43-0957",
+            "URL": "http://dx.doi.org/10.5860/choice.43-0957",
+            "container-title": "Choice Reviews Online",
+            "id": "basinan2005",
+            "issue": "02",
+            "issued": {
+                "date-parts": [
+                    [
+                        2005,
+                        10,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "title": "Basin analysis: principles and applications",
+            "title-short": "Basin analysis",
+            "type": "article-journal",
+            "volume": "43"
+        },
+        {
+            "DOI": "10.2113/gsecongeo.101.6.1314",
+            "URL": "http://dx.doi.org/10.2113/gsecongeo.101.6.1314",
+            "author": [
+                {
+                    "family": "McIntyre",
+                    "given": "A."
+                }
+            ],
+            "container-title": "Economic Geology",
+            "id": "mcintyre2006",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        9,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1314-1315",
+            "title": "Basin Analysis: Principles and Applications.: PHILIP A. ALLEN AND JOHN R. ALLEN. Second Edition. 2005. Pp. 549. Blackwell Publishing. ISBN 0-632-05207-4. Price US$92.95.",
+            "title-short": "Basin Analysis",
+            "type": "article-journal",
+            "volume": "101"
+        },
+        {
+            "DOI": "10.2113/gsecongeo.101.6.1314",
+            "URL": "http://dx.doi.org/10.2113/gsecongeo.101.6.1314",
+            "author": [
+                {
+                    "family": "McIntyre",
+                    "given": "A."
+                }
+            ],
+            "container-title": "Economic Geology",
+            "id": "mcintyre2006a",
+            "issue": "6",
+            "issued": {
+                "date-parts": [
+                    [
+                        2006,
+                        9,
+                        1
+                    ]
+                ]
+            },
+            "language": "en",
+            "page": "1314-1315",
+            "title": "Basin Analysis: Principles and Applications.: PHILIP A. ALLEN AND JOHN R. ALLEN. Second Edition. 2005. Pp. 549. Blackwell Publishing. ISBN 0-632-05207-4. Price US$92.95.",
+            "title-short": "Basin Analysis",
+            "type": "article-journal",
+            "volume": "101"
+        },
+        {
+            "author": [
+                {
+                    "family": "Buchanan"
+                }
+            ],
+            "id": "buchanan1994",
+            "issued": {
+                "date-parts": [
+                    [
+                        1994
+                    ]
+                ]
+            },
+            "title": "Extensional teconics and basin inversion",
+            "type": "book"
+        }
+    ],
+    "project_biblios": [
+        "references.bib"
+    ]
+}

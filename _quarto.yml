@@ -1,0 +1,28 @@
+project:
+  type: book
+
+book:
+  title: "The Foreland Basin and Its Application in Hydrocarbon Exploration"
+  author: "Aditya Arie Wijaya"
+  date: "01/11/2022"
+  chapters:
+    - index.qmd
+    - introduction.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
+fig-cap-location: margin
+fig-align: left
+fig-dpi: 300
+
+

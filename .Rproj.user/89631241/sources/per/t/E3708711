@@ -1,0 +1,33 @@
+{
+    "id": "E3708711",
+    "path": "C:/Users/h143725/Dropbox/03_self-projects/foreland-basin-book/foreland-basin/introduction.qmd",
+    "project_path": "introduction.qmd",
+    "type": "quarto_markdown",
+    "hash": "595911181",
+    "contents": "",
+    "dirty": false,
+    "created": 1667282916116.0,
+    "source_on_save": true,
+    "relative_order": 3,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "0",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "4087:2514",
+        "cursorPosition": "42,0",
+        "scrollLine": "0",
+        "docOutlineSize": "46",
+        "quartoPreviewFormat": "html"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1680164301,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1680164301523,
+    "read_only": false,
+    "read_only_alternatives": []
+}

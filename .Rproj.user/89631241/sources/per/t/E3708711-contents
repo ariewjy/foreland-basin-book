@@ -1,0 +1,47 @@
+# Introduction to Basin
+
+A basin by @einsele2000 is defined as a place where sediment can be accumulated with enough thickness and preserved in a long duration in geological time-frame. According to @basinan2005 by Allen & Allen, a basin is defined as a lower relief structure in comparison to earth surface.
+
+A basin can be classified into several types based on its lithospheric substratum (continental, oceaning, and transitional), position to intracratonic plate margin, and the type of plate movement close to the basin (divergent, convergent, and transform).
+
+![Ilustration of three plate margins as shown by the plate movement at subduction zone, oceaning ridge zone, and transofm zone, caused by the astenosphere convection push. @basinan2005](images/paste-4BA6D504.png){#fig-basin-forming width="659"}
+
+The mechanism in which governs the basin forming cannot be separated from processes happening inside the lithosphere, which consist of multiple plates interacting towards each others. This interaction between plates is shown by the plate margins that moves towards each other (convergent), separated toward each others (divergent), and plates that are moving side-by-side each others (transform), as shown in @fig-basin-forming.
+
+According to @basinan2005, basin-forming mechanism can be grouped into three categories:
+
+1.  Isostatic consequences of changes in crustal/lithospheric thickness, caused by the lithospheric stretching or purely caused by thermal, happening simultaneously with the cooling of sea crust which moves away from MOR (Mid-Oceanic Ridge) area.
+
+2.  Loading and unloading lithosphere, due to flexural deflection/ deformation which can also be followed by uplifting and subsidence, similar to forefront basin forming.
+
+3.  Dynamic topography. Viscous flow from mantle that causes non-permanent uplifting and subsidence.
+
+Based on the three above points, there are two parent groups of basin-forming, which are:
+
+-   Basin formed by the lithospheric stretching, can be a rift-drift (divergent movement), and
+
+-   Basin formed by the flexing (flexural) of earth crust or sea crust.
+
+## Basin Forming
+
+A basin can be formed only when there is a divergent force on the lithosphere. In this sub-chapter, we will be discussing about the mechanism based on litospheric stretching and flexural.
+
+### Lithospheric Stretching
+
+Lithospheric stretching is a divergent move on plate that happened because of the pull force of a plate. This force can be caused by pure pull forces like in between plate margins that moves away from each other (divergent), on the adjacent plate margin (transform) due to second order force that creates pull-apart basin, or on plate margin where it moves closer to each other (convergent) as a release-force after compression regime.
+
+When a lithosphere expoed to lithospheric stretching, astenosphere (bottom part) will flow as more aqueous part, while the crust (upper part) is rigid (brittle) will be exposed to cracking. These two processes happening in the lithosphere will form a crust thinning which will be causing a basin-forming.
+
+There are three models available to explain these mechanism of crust movement above astenosphere when lithospheric stretching happened: McKenzie, Wernicke, and Cantilever model.
+
+![McKenzie model (pure shear). This model visualizes a ductile moves of a crust that undergone thinning, while the brittle crust at top undergone a cracking (faults and grabens). This model is characterized by the symmetry of its faults. @basinan2005](images/image-1782529132.png){#fig-mckenzie width="651"}
+
+![Wernicke model (simple shear). This model is characterized by the asymmetric movement between crust and astenosphere @basinan2005](images/image-1735692408.png){#fig-wernicke width="656"}
+
+![Cantilever model (a combined model between pure shear and simple shear). This model combines a simple shear movement of the upper crust with pure shear movement of the mantle at the bottom @basinan2005](images/image-1564040352.png){#fig-cantilever width="646"}
+
+### Flexural Isostacy
+
+Isostacy is a theory used to explain about the behavior of lithosphere with astenosphere underneath. According to Airy, crust is distributed according to similar density but different in the root length (column) as depicted in the @fig-airy below.
+
+![Airy Isostacy model by @buchanan1994](images/image-240741717.png){#fig-airy width="643"}
